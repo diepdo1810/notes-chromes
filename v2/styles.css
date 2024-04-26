@@ -1,0 +1,33 @@
+.notes-app {
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+  
+#newNote {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 5px;
+  font-size: 16px;
+}
+  
+#addNote {
+  margin-bottom: 10px;
+  padding: 5px;
+  font-size: 16px;
+}
+  
+#notesList {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+  
+#notesList li {
+  margin-bottom: 5px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
